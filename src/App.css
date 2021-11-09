@@ -1,29 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+
 * {
-    margin: 0;
-    padding: 0;
+	margin: 0;
+	padding: 0;
+}
+
+*::-webkit-scrollbar {
+	display: none;
+}
+
+::selection {
+	background: transparent;
+}
+
+body {
+	font-family: 'Poppins', sans-serif;
 }
 
 .App {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    border: 1px solid black;
-    height: 100vh;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	height: 100vh;
 }
 
 .calendar {
-    flex: 0.2;
-    padding-top: 5%;
-    padding-left: 1vw;
-    border: 1px solid red;
+	flex: 0.2;
+	padding: 2rem 1rem;
+	border-right: 0.5px dotted lightgray;
 }
 
 .events {
-    flex: 0.6;
-    border: 1px solid black;
+	flex: 0.5;
+	border-right: 0.5px dotted lightgray;
 }
 
 .allevent {
-    flex: 0.2;
-    border: 1px solid red
+	flex: 0.3;
 }

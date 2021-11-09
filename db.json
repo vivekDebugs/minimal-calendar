@@ -1,0 +1,64 @@
+{
+  "events": [
+    {
+      "id": 9468,
+      "title": "Event 1",
+      "description": "Description1",
+      "date": "2021-11-09T04:32:00.000Z"
+    },
+    {
+      "id": 81773,
+      "title": "Event 2",
+      "description": "Description 2",
+      "date": "2021-11-10T04:33:00.000Z"
+    },
+    {
+      "id": 34865,
+      "title": "Conference",
+      "description": "Google Dev Summit",
+      "date": "2021-11-18T08:30:00.000Z"
+    },
+    {
+      "id": 47617,
+      "title": "Event 3",
+      "description": "Description 3",
+      "date": "2021-11-10T05:22:00.000Z"
+    },
+    {
+      "id": 75345,
+      "title": "some title",
+      "description": "some description",
+      "date": "2021-11-24T06:05:00.000Z"
+    },
+    {
+      "id": 41904,
+      "title": "My new Event",
+      "description": "My description for the new event",
+      "date": "2021-11-23T07:30:00.000Z"
+    },
+    {
+      "id": 50208,
+      "title": "another event",
+      "description": "another description",
+      "date": "2021-11-15T06:38:00.000Z"
+    },
+    {
+      "id": 66098,
+      "title": "TED talk",
+      "description": "on Animals",
+      "date": "2021-11-26T06:42:00.000Z"
+    },
+    {
+      "id": 23123,
+      "title": "Take Jimmy to walk",
+      "description": "Walk Walk Walk",
+      "date": "2021-11-27T06:57:00.000Z"
+    },
+    {
+      "id": 14858,
+      "title": "Event 5",
+      "description": "Description 5",
+      "date": "2021-11-10T04:40:00.000Z"
+    }
+  ]
+}
